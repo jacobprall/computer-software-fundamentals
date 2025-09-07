@@ -1,7 +1,10 @@
 # A crash course on software:
 
 ## Chapter 1: Fundamentals
-### What is a computer?
+
+### Part 1: Basics
+
+#### What is a computer?
 A computer is composed of two core pieces of functionality: 
 - Performing calculations
 - Storing data
