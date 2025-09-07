@@ -30,7 +30,8 @@ Here is an example of the JavaScript programming language:
 //  the string value "Jacob" to live, referenced as the variable "firstName" in the program
 var firstName = "Jacob"
 var lastName = "Prall"
-var fullName = firstName + " " + lastName // concatenate a string with the + operator, save the result to variable labeled "fullName"
+var fullName = firstName + " " + lastName // concatenate a string with the + operator, 
+// then save the result to a variable labeled "fullName"
 print(firstName, lastName, fullName) // send "Jacob", "Prall", "Jacob Prall" to the user
 ```
 
