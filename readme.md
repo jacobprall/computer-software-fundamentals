@@ -25,7 +25,9 @@ The instructions are first written in a programming language. Programming langua
 Here is an example of the JavaScript programming language:
 
 ```js
-// this line of code initializes a place in computer memory for the the string value "Jacob" to live, referenced as "firstName" in the program
+// <- these backslashes tell the computer not to read what follows  
+// the below line of code initializes a place in computer memory for
+//  the string value "Jacob" to live, referenced as the variable "firstName" in the program
 var firstName = "Jacob"
 var lastName = "Prall"
 var fullName = firstName + " " + lastName // concatenate a string with the + operator, save the result to variable labeled "fullName"
